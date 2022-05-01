@@ -1,6 +1,6 @@
 {
     "name": "x3d/think3-orm",
-    "description": "ThinkPHP 3.2.x 中的 orm 库 独立封装，基于thinkphp6 框架环境运行，以便一些老项目迁移核心的model层",
+    "description": "ThinkPHP 3.2.x 中的 orm 库 独立封装，基以便一些遗留项目迁移核心的model层",
     "type": "library",
     "require-dev": {
         "phpunit/phpunit": "^7|^8|^9.5"
