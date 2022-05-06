@@ -12,6 +12,7 @@
             "email": "web3d@live.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "ext-pdo": "*"
     },
